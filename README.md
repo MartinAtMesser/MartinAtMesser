@@ -10,15 +10,15 @@
 
 ## About me
 
-💻 &nbsp;Desenvolvedor Application/Web Full Stack  
+💻 &nbsp;Application/Web Full Stack  
 
 📊 &nbsp;Eletrotechnical Engineer
 
 ⚡ &nbsp;MBA in project Management  
 
-🎥 &nbsp;[Set/2017 - Presente] PMP - Project Management Professional since Nov 2017
+🎥 &nbsp;[Set/2017 - Present] PMP - Project Management Professional since Nov 2017
 
-👨‍👩‍👧‍👦 &nbsp;[Jul/2014 - Presente] Father of Bettina and Noah
+👨‍👩‍👧‍👦 &nbsp;[Jul/2014 - Present] Father of Bettina and Noah
 
 
 🔋 batteries included.
