@@ -1,81 +1,122 @@
-### Hi there 👋✨
-# Martin Lietz
+# Hi there 👋 I'm Martin Lietz
 
-<img align="right" src="https://komarev.com/ghpvc/?username=martinlietz" alt="Martin Lietz's Profile Views" />
+### Enterprise Software Engineer | Data & Automation Specialist | PMP® | MBA | Lean Six Sigma Black Belt
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-MartinLietz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/martinlietz/](https://www.linkedin.com/in/martin-lietz-pmp-mba-black-belt-/))]([https://www.linkedin.com/in//martin-lietz-pmp-mba-black-belt-/](https://www.linkedin.com/in/martin-lietz-pmp-mba-black-belt-/)) 
+I build enterprise software that connects **people, processes, and data**.
 
+With experience in software engineering, data analytics, automation, and project management, I enjoy transforming complex business challenges into scalable, maintainable, and data-driven solutions.
 
-[Martin Lietz's github stats](https://github-readme-stats.vercel.app/api?username=MartinAtMesser&show_icons=true&theme=tokyonight)
+Driven by a **Growth Mindset**, I believe in continuous learning, collaboration, and continuous improvement.
 
-## About me
+---
 
-💻 &nbsp;Application/Web Full Stack  
+## 🚀 About Me
 
-📊 &nbsp;Eletrotechnical Engineer
+- 👨‍👩‍👧 Proud family man
+- 💻 Enterprise Software Engineer
+- 📊 Data & Analytics Specialist
+- 🤖 Automation Enthusiast
+- 🏗 Passionate about Enterprise Architecture
+- 📈 PMP® Certified Project Manager
+- 🎓 MBA in Project Management
+- 🥋 Lean Six Sigma Black Belt
+- 🌱 Lifelong learner with a Growth Mindset
 
-⚡ &nbsp;MBA in project Management  
+---
 
-🎥 &nbsp;[Set/2017 - Present] PMP - Project Management Professional since Nov 2017
+## 🛠 Tech Stack
 
-👨‍👩‍👧‍👦 &nbsp;[Jul/2014 - Present] Father of Bettina and Noah
+### Languages
 
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PLSQL](https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-🔋 batteries included.
+### Backend
 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-## 🛠️ Skills
+### Databases
 
-### :wrench: Tools and environments
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)       
-<img src="https://github.com/martinlietz/martinlietz/assets/34095804/78f440b7-7b77-46cd-b230-f4b73b9da82a" alt=GIT width=100px height=100px>
-### :computer: Machine Learning
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)  
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
-  
-### :computer: Front-End Development
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![styled-components](https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![sass](https://img.shields.io/badge/Sass-CF649A?style=for-the-badge&logo=sass&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### DevOps & Tools
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### :computer: Back-End Development
+### Data & Automation
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![postgress](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- Python
+- Data Analytics
+- Data Engineering
+- ETL
+- SSIS
+- Oracle PL/SQL
+- RPA
+- Process Automation
+- Data Modeling
+- Database Design
+- Business Intelligence
 
+---
 
-- 🔭 I’m currently working on a data-science project
-- 🌱 I’m currently learning kaggle machine learning
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with so many things
-- 💬 Ask me about databases, programming
-- 📫 How to reach me: flieger.martin**delete before send**@gmail.com
-- ⚡ Fun fact: A 
-<!--
-**martinlietz/martinlietz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Current Focus
 
-Here are some ideas to get you started:
+- Enterprise .NET Development
+- Distributed Systems with .NET Aspire
+- Oracle Database Optimization
+- RabbitMQ Messaging
+- AI-assisted Development
+- Docker & Cloud-native Applications
+- Process Automation
+- Data Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📜 Certifications
+
+- 🏅 PMP® – Project Management Professional
+- 🎓 MBA – Project Management
+- 🥋 Lean Six Sigma Black Belt
+- 📊 Agile & Scrum
+- 🤖 Industry 4.0
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=martinlietz&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinlietz&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=martinlietz&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 💡 Philosophy
+
+> "Technology should simplify complexity—not create it."
+
+I enjoy designing software that is **scalable**, **maintainable**, and **valuable** to the business.
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/martin-lietz-pmp-mba-black-belt-
+- 🌍 Always interested in software engineering, data, automation, and digital transformation.
