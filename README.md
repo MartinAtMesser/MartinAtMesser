@@ -51,7 +51,23 @@ Driven by a **Growth Mindset**, I believe in continuous learning, collaboration,
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure Kubernetes Service](https://img.shields.io/badge/Azure_Kubernetes_Service-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge)
+![ARM Templates](https://img.shields.io/badge/ARM_Templates-0078D4?style=for-the-badge)
+![Azure Networking](https://img.shields.io/badge/Azure_Networking-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure RBAC](https://img.shields.io/badge/Azure_RBAC-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-5C2D91?style=for-the-badge)
 
+### Cloud & DevOps Knowledge
+
+- Kubernetes & AKS Fundamentals
+- Azure Networking (AZ-104)
+- Azure RBAC
+- CI/CD Pipeline Design
+- DevSecOps & Security Scanning in CI/CD
 ### Data & Automation
 
 - Python
@@ -67,15 +83,19 @@ Driven by a **Growth Mindset**, I believe in continuous learning, collaboration,
 - Business Intelligence
 
 ---
-
 ## 🎯 Current Focus
 
 - Enterprise .NET Development
 - Distributed Systems with .NET Aspire
-- Oracle Database Optimization
-- RabbitMQ Messaging
-- AI-assisted Development
+- Azure Cloud & DevOps
+- Kubernetes (AKS) & Helm
+- Infrastructure as Code (Bicep & ARM Templates)
+- CI/CD Pipelines with GitHub Actions & Azure DevOps
+- Cloud Security & Azure RBAC
 - Docker & Cloud-native Applications
+- RabbitMQ Messaging
+- Oracle Database Optimization
+- AI-assisted Development
 - Process Automation
 - Data Engineering
 
